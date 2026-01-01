@@ -13,7 +13,7 @@
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react)](#)
 
 ### 🛢️ Database
-[![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma)](#)
+[![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,drizzle)](#)
 
 ### ⚙️ Tools
 [![Tools](https://skillicons.dev/icons?i=docker,postman)](#)
